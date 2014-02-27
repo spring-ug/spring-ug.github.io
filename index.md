@@ -1,4 +1,7 @@
-Title:  Spring User Groups
+---
+layout: nil
+title: Spring User Groups
+---
 
 
 ## Spring User Groups
