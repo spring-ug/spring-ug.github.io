@@ -1,5 +1,5 @@
 ---
-layout: nil
+layout: midnight_theme
 title: Spring User Groups
 ---
 
