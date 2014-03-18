@@ -17,5 +17,6 @@ The latest version is [4.0.1](http://mvnrepository.com/artifact/org.springframew
 ### Gathering all Spring User Group
 
 Let everybody know that you have Spring related meetups, events  or website.
-[Please add your group](https://github.com/spring-ug/spring-ug.github.io/edit/master/index.md)
+
+[Add your group](https://github.com/spring-ug/spring-ug.github.io/edit/master/index.md)
  
