@@ -14,6 +14,13 @@ The most well-known of them is [spring framework](https://github.com/spring-proj
 The latest version is [4.0.2](http://mvnrepository.com/artifact/org.springframework/spring-core).
 Version 4 [released](http://spring.io/blog/2013/12/12/announcing-spring-framework-4-0-ga-release) in December 2013. 
 
+## Events
+
+- [events on blog](http://blog.gopivotal.com/tag/events)
+- [news-events](http://www.gopivotal.com/news-events)
+
+[![](http://spring-ug.github.io/beijing/img/events/TianAnMen-600x78-Beijing-Spring-UG-event-2014-04-12.jpg)](https://yoopay.cn/event/58458792)
+
 ### Gathering all Spring User Group
 
 Let everybody know that you have Spring related meetups, events  or website.
