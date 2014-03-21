@@ -25,5 +25,7 @@ Version 4 [released](http://spring.io/blog/2013/12/12/announcing-spring-framewor
 
 Let everybody know that you have Spring related meetups, events  or website.
 
+- [Mkyong](http://www.mkyong.com/tutorials/spring-tutorials/)
+
 [Add your group](https://github.com/spring-ug/spring-ug.github.io/edit/master/index.md)
  
