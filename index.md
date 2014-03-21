@@ -28,4 +28,6 @@ Let everybody know that you have Spring related meetups, events  or website.
 - [Mkyong](http://www.mkyong.com/tutorials/spring-tutorials/)
 
 [Add your group](https://github.com/spring-ug/spring-ug.github.io/edit/master/index.md)
+
+[Ask for an event in your city](https://github.com/spring-ug/spring-ug.github.io/issues/)
  
