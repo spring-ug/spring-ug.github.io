@@ -31,3 +31,5 @@ Let everybody know that you have Spring related meetups, events  or website.
 
 [Ask for an event in your city](https://github.com/spring-ug/spring-ug.github.io/issues/)
  
+
+Next event will be on Aug 23th, Saturday 2:00 PM, in ThoughtWorks Office
