@@ -19,7 +19,7 @@ Version 4 [released](http://spring.io/blog/2013/12/12/announcing-spring-framewor
 - [events on blog](http://blog.gopivotal.com/tag/events)
 - [news-events](http://www.gopivotal.com/news-events)
 
-[![](http://spring-ug.github.io/beijing/img/events/TianAnMen-600x78-Beijing-Spring-UG-event-2014-04-12.jpg)](https://yoopay.cn/event/58458792)
+[![](http://spring-ug.github.io/beijing/img/events/TianAnMen-600x78-Beijing-Spring-UG-event-2014-04-12.jpg)](http://springioug.com/beijing/)
 
 ### Gathering all Spring User Group
 
