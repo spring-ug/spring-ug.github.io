@@ -11,13 +11,28 @@ Spring is set of [open-source technologies](http://www.gopivotal.com/oss)
  developed by [Pivotal](http://www.gopivotal.com/) (former [SpringSource](http://en.wikipedia.org/wiki/SpringSource)).
 
 The most well-known of them is [spring framework](https://github.com/spring-projects/spring-framework).
-The latest version is [4.0.2](http://mvnrepository.com/artifact/org.springframework/spring-core).
+The latest version is [4.1.1](http://mvnrepository.com/artifact/org.springframework/spring-core).
 Version 4 [released](http://spring.io/blog/2013/12/12/announcing-spring-framework-4-0-ga-release) in December 2013. 
 
 ## Events
 
 - [events on blog](http://blog.gopivotal.com/tag/events)
 - [news-events](http://www.gopivotal.com/news-events)
+
+### Pivotal  CLOUD PLATFORM  ROADSHOW  Nov-Dev 2014
+
+<http://www.pivotal.io/platform-as-a-service/cloud-platform-roadshow>
+
+### China November 2014
+
+会议时间	2014年11月13日 星期四
+会议地点	上海金茂君悦酒店
+<http://connect.pivotal.io/APJ_Event_CN_Shanghai-Paas-User-Summit_Registration.html?ref=http://springioug.com/>
+会议时间	2014年11月14日 星期五
+会议地点	深圳金茂JW万豪酒店
+<http://connect.pivotal.io/APJ_Event_CN_Shenzhen-Paas-User-Summit_Registration.html?ref=http://springioug.com/>
+
+
 
 [![](http://spring-ug.github.io/beijing/img/events/TianAnMen-600x78-Beijing-Spring-UG-event-2014-04-12.jpg)](http://springioug.com/beijing/)
 
@@ -31,5 +46,6 @@ Let everybody know that you have Spring related meetups, events  or website.
 
 [Ask for an event in your city](https://github.com/spring-ug/spring-ug.github.io/issues/)
  
-
+<!--
 Next event will be on Aug 23th, Saturday 2:00 PM, in ThoughtWorks Office
+-->
