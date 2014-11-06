@@ -26,6 +26,7 @@ Version 4 [released](http://spring.io/blog/2013/12/12/announcing-spring-framewor
 
 ### China November 2014
 
+<!--
 #### 上海
 
 会议时间	2014年11月13日 星期四  
@@ -37,6 +38,7 @@ Version 4 [released](http://spring.io/blog/2013/12/12/announcing-spring-framewor
 会议时间	2014年11月14日 星期五  
 会议地点	深圳金茂JW万豪酒店  
 [报名](http://connect.pivotal.io/APJ_Event_CN_Shenzhen-Paas-User-Summit_Registration.html?ref=http://springioug.com/)
+-->
 
 #### 北京
 
