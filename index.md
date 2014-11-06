@@ -24,7 +24,7 @@ Version 4 [released](http://spring.io/blog/2013/12/12/announcing-spring-framewor
 
 <http://www.pivotal.io/platform-as-a-service/cloud-platform-roadshow>
 
-### China November 2014
+### China Nov-Dev 2014
 
 <!--
 #### 上海
