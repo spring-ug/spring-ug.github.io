@@ -3,7 +3,8 @@ layout: midnight_theme
 title: Spring User Groups
 ---
 
-[Edit this page](https://github.com/spring-ug/spring-ug.github.io/edit/master/index.md)
+[Edit this page](https://github.com/spring-ug/spring-ug.github.io/edit/master/index.md),
+[Ask question](https://github.com/spring-ug/spring-ug.github.io/issues)
 
 ## Spring User Groups
 
