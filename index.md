@@ -46,7 +46,9 @@ Version 4 [released](http://spring.io/blog/2013/12/12/announcing-spring-framewor
 会议时间	2014年12月5日 星期五  
 找讲师 <http://springioug.com/beijing/>
 
+<!--
 [![](http://spring-ug.github.io/beijing/img/events/TianAnMen-600x78-Beijing-Spring-UG-event-2014-04-12.jpg)](http://springioug.com/beijing/)
+-->
 
 ### Gathering all Spring User Group
 
