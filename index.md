@@ -21,13 +21,21 @@ Version 4 [released](http://spring.io/blog/2013/12/12/announcing-spring-framewor
 - [events on blog](http://blog.gopivotal.com/tag/events)
 - [news-events](http://www.gopivotal.com/news-events)
 
+
+
+<!--
+
 ### Pivotal  CLOUD PLATFORM  ROADSHOW  Nov-Dev 2014
 
 <http://www.pivotal.io/platform-as-a-service/cloud-platform-roadshow>
 
 ### China Nov-Dev 2014
 
-<!--
+#### 北京
+
+会议时间	2014年12月5日 星期五  
+找讲师 <http://springioug.com/beijing/>
+
 #### 上海
 
 会议时间	2014年11月13日 星期四  
@@ -40,11 +48,6 @@ Version 4 [released](http://spring.io/blog/2013/12/12/announcing-spring-framewor
 会议地点	深圳金茂JW万豪酒店  
 [报名](http://connect.pivotal.io/APJ_Event_CN_Shenzhen-Paas-User-Summit_Registration.html?ref=http://springioug.com/)
 -->
-
-#### 北京
-
-会议时间	2014年12月5日 星期五  
-找讲师 <http://springioug.com/beijing/>
 
 <!--
 [![](http://spring-ug.github.io/beijing/img/events/TianAnMen-600x78-Beijing-Spring-UG-event-2014-04-12.jpg)](http://springioug.com/beijing/)
@@ -63,3 +66,11 @@ Let everybody know that you have Spring related meetups, events  or website.
 <!--
 Next event will be on Aug 23th, Saturday 2:00 PM, in ThoughtWorks Office
 -->
+
+## In Chinese
+
+QQ groups
+
+Spring.io中国用户组 264930871
+
+Spring batch 群 238406261
