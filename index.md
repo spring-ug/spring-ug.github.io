@@ -13,7 +13,7 @@ Spring is set of [open-source technologies](http://www.gopivotal.com/oss)
  developed by [Pivotal](http://www.gopivotal.com/) (former [SpringSource](http://en.wikipedia.org/wiki/SpringSource)).
 
 The most well-known of them is [spring framework](https://github.com/spring-projects/spring-framework).
-The latest version is [4.1.1](http://mvnrepository.com/artifact/org.springframework/spring-core).
+Check the latest published version at <http://mvnrepository.com/artifact/org.springframework/spring-core>.
 Version 4 [released](http://spring.io/blog/2013/12/12/announcing-spring-framework-4-0-ga-release) in December 2013.
 
 ## Events
