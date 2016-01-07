@@ -69,7 +69,10 @@ Let everybody know that you have Spring related meetups, events  or website.
 Next event will be on Aug 23th, Saturday 2:00 PM, in ThoughtWorks Office
 -->
 
-## In Chinese
+## In Chinese/China
+
+- [北京](http://bj.springioug.com/)
+- [深圳](http://szjug.github.io/)
 
 QQ groups
 
